@@ -1,5 +1,8 @@
 # Getting Started
 
+### Example Documentation
+https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-cosmos-db
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
